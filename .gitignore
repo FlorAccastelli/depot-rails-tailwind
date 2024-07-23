@@ -36,3 +36,5 @@
 vendor/bundle/*
 vendor/cache/*
 vendor/plugins/*
+/app/assets/builds/*
+!/app/assets/builds/.keep
